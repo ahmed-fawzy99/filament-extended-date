@@ -2,9 +2,9 @@
 
 namespace AhmedDe\FilamentExtendedDate\Tests;
 
+use AhmedDe\FilamentExtendedDate\FilamentExtendedDateServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use AhmedDe\FilamentExtendedDate\FilamentExtendedDateServiceProvider;
 
 class TestCase extends Orchestra
 {
