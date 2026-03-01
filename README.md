@@ -154,6 +154,18 @@ ExtendedDateColumn::make('created_at')
     ->dateFormat("MM/DD/YYYY HH:mm");
 ```
 
+## Screenshots
+
+### Tables
+
+- ![Table Example (Dark)](https://pub-2d4798b44c2c47d1adecc6c62bf47f38.r2.dev/git/filament-extended-date/table-dark.png)
+- ![Table Example (Light)](https://pub-2d4798b44c2c47d1adecc6c62bf47f38.r2.dev/git/filament-extended-date/table-light.png)
+
+### InfoLists
+
+- ![Infolist Example (Dark)](https://pub-2d4798b44c2c47d1adecc6c62bf47f38.r2.dev/git/filament-extended-date/infolist-dark.png)
+- ![Infolist Example (Light)](https://pub-2d4798b44c2c47d1adecc6c62bf47f38.r2.dev/git/filament-extended-date/infolist-light.png)
+
 ## Development
 
 This plugin compiles the needed JS assets and registers the bundle in the `FilamentExtendedDateServiceProvider`. If you
