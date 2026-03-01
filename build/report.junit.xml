@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="/home/ahmed/Documents/dev_stuff/local/php_packages/filament-extended-date/phpunit.xml.dist" tests="4" assertions="14" errors="0" failures="0" skipped="0" time="0.092166">
+    <testsuite name="AhmedDe Test Suite" tests="4" assertions="14" errors="0" failures="0" skipped="0" time="0.092166">
+      <testsuite name="Tests\Feature\ExtendedDate\ExtendedDateTest" file="tests/Feature/ExtendedDate/ExtendedDateTest.php" tests="4" assertions="14" errors="0" failures="0" skipped="0" time="0.092166">
+        <testcase name="it can use defaults if configs are not valid" file="tests/Feature/ExtendedDate/ExtendedDateTest.php::it can use defaults if configs are not valid" class="Tests\Feature\ExtendedDate\ExtendedDateTest" classname="Tests.Feature.ExtendedDate.ExtendedDateTest" assertions="5" time="0.065643"/>
+        <testcase name="it can filter duplicate and invalid timezones" file="tests/Feature/ExtendedDate/ExtendedDateTest.php::it can filter duplicate and invalid timezones" class="Tests\Feature\ExtendedDate\ExtendedDateTest" classname="Tests.Feature.ExtendedDate.ExtendedDateTest" assertions="4" time="0.009175"/>
+        <testcase name="it can load timezones" file="tests/Feature/ExtendedDate/ExtendedDateTest.php::it can load timezones" class="Tests\Feature\ExtendedDate\ExtendedDateTest" classname="Tests.Feature.ExtendedDate.ExtendedDateTest" assertions="3" time="0.008838"/>
+        <testcase name="it can load time format" file="tests/Feature/ExtendedDate/ExtendedDateTest.php::it can load time format" class="Tests\Feature\ExtendedDate\ExtendedDateTest" classname="Tests.Feature.ExtendedDate.ExtendedDateTest" assertions="2" time="0.008509"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>
