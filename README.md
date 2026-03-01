@@ -21,9 +21,11 @@ You can publish the config file with:
 php artisan vendor:publish --tag="filament-extended-date-config"
 ```
 
-This is the contents of the published config file:
+This is the contents of the published `config/filament-extended-date.php` config file:
 
 ```php
+use AhmedDe\FilamentExtendedDate\Support\Constants\TZ;
+
 return [
     /*
     |--------------------------------------------------------------------------
@@ -132,6 +134,8 @@ specified in the config file for that specific field.
 
 ```php
 use AhmedDe\FilamentExtendedDate\Infolists\Components\ExtendedDateEntry;
+use AhmedDe\FilamentExtendedDate\Tables\Columns\ExtendedDateColumn;
+use AhmedDe\FilamentExtendedDate\Support\Constants\TZ;
 
 ExtendedDateEntry::make('created_at')
     ->label('Created At')
@@ -183,10 +187,6 @@ composer test
 ## Changelog
 
 Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed recently.
-
-## Contributing
-
-Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Credits
 
