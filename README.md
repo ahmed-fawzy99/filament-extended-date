@@ -1,8 +1,8 @@
 # Filament Extended Date
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/ahmedde/filament-extended-date.svg?style=flat-square)](https://packagist.org/packages/ahmedde/filament-extended-date)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/ahmedde/filament-extended-date/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/ahmedde/filament-extended-date/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/ahmedde/filament-extended-date/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/ahmedde/filament-extended-date/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/ahmed-fawzy99/filament-extended-date/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/ahmed-fawzy99/filament-extended-date/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/ahmed-fawzy99/filament-extended-date/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/ahmed-fawzy99/filament-extended-date/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/ahmedde/filament-extended-date.svg?style=flat-square)](https://packagist.org/packages/ahmedde/filament-extended-date)
 
 Extend your date fields to reveal the date in other time zones and relative time.
